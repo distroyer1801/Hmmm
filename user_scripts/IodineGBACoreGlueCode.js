@@ -20,7 +20,7 @@ var games = {
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
     "alienhominid":"Alien Hominid",
-    "avatar":"Avatar The Last Airbender"
+    "avatar":"Avatar The Last Airbender",
     "bomberman_max2blue":"Bomberman Max 2 - Blue Advance",
     "bomberman_tournament":"Bomberman Tournament",
     "bubblebobble":"Bubble Bobble",
