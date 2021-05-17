@@ -17,6 +17,7 @@
  */
 var games = {
     "advancewars":"Advance Wars",
+    "shrek2":"Shrek 2",
     "advancewars2":"Advance Wars 2",
     "aladdin":"Aladdin",
     "alienhominid":"Alien Hominid",
