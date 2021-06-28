@@ -113,6 +113,7 @@ var games = {
     "spyro_ice":"Spyro: Season of Ice",
     "spyro_flame":"Spyro 2: Season of Flame",
     "turok_evolution":"Turok Evolution",
+    "Tony_Hawk":"Tony Hawk's Pro Skater 3",
     "warioland4":"Wario Land 4",
     "wario_ware":"Wario Ware Inc",
     "zelda_past":"The Legend of Zelda: A Link to the Past",
