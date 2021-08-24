@@ -19,6 +19,7 @@ var games = {
     "advancewars":"Advance Wars",
     "shrek2":"Shrek 2",
     "advancewars2":"Advance Wars 2",
+    "bleyblade-g":"Bleyblade G Revolution",
     "aladdin":"Aladdin",
     "alienhominid":"Alien Hominid",
     "avatar":"Avatar The Last Airbender",
