@@ -17,6 +17,7 @@
  */
 var games = {
     "advancewars":"Advance Wars",
+    "mother1-2":"Mother 1 and 2",
     "shrek2":"Shrek 2",
     "advancewars2":"Advance Wars 2",
     "bleyblade-g":"Bleyblade G Revolution",
